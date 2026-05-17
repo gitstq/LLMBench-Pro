@@ -1,0 +1,21 @@
+# LLMBench-Pro Requirements
+# Zero external dependencies - uses only Python standard library
+# Optional dependencies for enhanced functionality:
+
+# For llama.cpp backend
+# llama-cpp-python>=0.2.0
+
+# For transformers backend
+# transformers>=4.30.0
+# torch>=2.0.0
+# accelerate>=0.20.0
+
+# For ctransformers backend
+# ctransformers>=0.2.0
+
+# Development dependencies
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# isort>=5.0.0
+# mypy>=1.0.0
